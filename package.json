@@ -7,10 +7,10 @@
     "lib"
   ],
   "scripts": {
-    "start": "umi-lib doc dev",
-    "build": "rm -rf lib es & umi-lib build ",
+    "start": "father doc dev",
+    "build": "rm -rf lib es & father build ",
     "build:style": "gulp compile-style",
-    "build:doc":"umi-lib doc build"
+    "build:doc": "father doc build"
   },
   "author": "",
   "license": "ISC",
@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
+    "father": "^2.3.0",
     "gulp": "^4.0.2",
     "less": "^3.9.0",
     "less-plugin-npm-import": "^2.1.0",

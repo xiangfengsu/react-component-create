@@ -1,4 +1,4 @@
-### 基于[umi-libary](https://github.com/umijs/umi/tree/master/packages/umi-library "umi-libary") 实现类似ant-design 组件开发脚手架
+### 基于[umi/father](https://github.com/umijs/father "umi/father") 实现类似ant-design 组件开发脚手架
 
 - 开发 yarn start 
 （注意:如想实现类似antd的class 模式,需在*.mdx文件中引入`import './style/index.js';`）
