@@ -23,7 +23,7 @@
     "gulp": "^4.0.2",
     "less": "^3.9.0",
     "less-plugin-npm-import": "^2.1.0",
-    "postcss": "^7.0.16",
+    "postcss": "^8.2.10",
     "rimraf": "^2.6.3",
     "rucksack-css": "^1.0.2",
     "signale": "^1.4.0",
